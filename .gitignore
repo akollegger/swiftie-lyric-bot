@@ -166,3 +166,6 @@ cython_debug/
 
 # local install
 .neo4j
+
+# MacOS stuff
+.DS_Store
